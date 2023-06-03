@@ -97,3 +97,25 @@ Contributions to Project Nox are welcome! If you would like to contribute to the
 8. **Your pull request will be reviewed by the project maintainers. They may provide feedback or ask for further changes**.
 
 Thank you for considering contributing to Project Nox! Together, we can make Nox even better.
+
+  
+## Acknowledgements:
+
+The following packages are used in the development of Project Nox:
+
+- [OpenAI](https://github.com/openai/openai-python)
+- [PyTube](https://github.com/nficano/pytube)
+- [Discord](https://github.com/Rapptz/discord.py)
+- [Beautiful Soup](https://github.com/wention/BeautifulSoup4)
+- [FFMPEG](https://github.com/kkroening/ffmpeg-python)
+
+We would like to express our gratitude to the developers and maintainers of these packages for their contributions to the open-source community.
+
+If you find Project Nox helpful, consider checking out and supporting these projects as well.
+
+## Contact:
+
+For any inquiries or feedback regarding Project Nox, please feel free to email us at:
+
+<placeholder-email@example.com>
+
